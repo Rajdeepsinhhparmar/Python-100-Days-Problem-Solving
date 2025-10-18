@@ -1,3 +1,4 @@
+
 print(type("abc"))
 
 print(type(123))
